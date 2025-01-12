@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-Hello! I'm Yunus, and this is my GitHub profile! 🤓 
+Hello! I'm Yunus, and this is my GitHub profile! 
 
 ## 🌟 What I Offer
 - 💻 **My Projects**: Exciting projects that might catch your interest.
