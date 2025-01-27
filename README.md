@@ -13,4 +13,4 @@ Hello! I'm Yunus, and this is my GitHub profile!
 
 ---
 
-📫 How to reach me: [Email](aksu3796@gmail.com) 
+📫 How to reach me: [aksu3796@gmail.com ]
