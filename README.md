@@ -9,7 +9,8 @@ Hello! I'm Yunus, and this is my GitHub profile!
 
 ---
 
-![Welcome](![image](![image](https://github.com/user-attachments/assets/2c1e91d7-f1db-4fe0-86f3-da985e62ed6d)
+![Welcome](![image](![Profil GIF](https://images.steamusercontent.com/ugc/2517031118103160499/C9D501AE6B89A0A9341B13266ADBE44E5E7CCEEC/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+)
 
 
 ---
