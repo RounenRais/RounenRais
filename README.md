@@ -9,7 +9,7 @@ Hello! I'm Yunus, and this is my GitHub profile!
 
 ---
 
-![Welcome](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLjUBXhMb9wDXVtl7kiGtvPy1V0Z1w2F-RQ&s)  
+![Welcome](![image](https://github.com/user-attachments/assets/d01e862f-2d5d-4a36-afce-170fac07aecd))  
 
 ---
 
