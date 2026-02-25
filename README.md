@@ -1,11 +1,11 @@
-# Welcome! 👋
+# Welcome! 
 
 Hello! I'm Yunus, and this is my GitHub profile! 
 
-## 🌟 What I Offer
-- 💻 **My Projects**: Exciting projects that might catch your interest.
-- 🛠️ **Tools**: Open-source utilities and code snippets.
-- 🌱 **Currently Learning**: Vue.js, React, Python...
+##  What I Offer
+-  **My Projects**: Exciting projects that might catch your interest.
+-  **Tools**: Open-source utilities and code snippets.
+-  **Currently Learning**: Vue.js, React, Python...
 
 ---
 
